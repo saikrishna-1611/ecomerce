@@ -1,0 +1,1 @@
+export const LOGO="https://banner2.cleanpng.com/20180519/jjs/avq0lgq0t.webp";

@@ -1,0 +1,67 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.header:hover{
+    border: 1px solid black;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.nav-items{
+    display: flex;
+    justify-content: space-evenly;
+}
+.login:hover{
+ border: 10x solid black;
+ background-color: #f0f0f0;
+ width:200px;
+ height: 200px;
+padding-top: 20px;
+cursor: pointer;
+}
+.list{
+    display: flex;
+    justify-content: space-evenly;
+}
+.list>li{
+    list-style-type: none;
+}
+.login{
+    margin-left: 30%;
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+}
+.login>input{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.login >button{
+    padding: 10px;
+    margin: 10px;
+}
+.register:hover{
+    border: 10x solid black;
+    background-color: #f0f0f0;
+   
+   cursor: pointer;
+   }
+   .register>input{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+.register >button{
+    padding: 10px;
+    margin: 10px;
+}
+.register{
+    margin-left: 30%;
+    padding: 20px;
+    height: 250px;
+    width: 250px;
+}
